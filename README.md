@@ -1,5 +1,7 @@
 # Typed Mem Fs  [![Build Status](https://travis-ci.org/types/mem-fs.svg?branch=master)](https://travis-ci.org/types/mem-fs)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-mem-fs.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`mem-fs`](https://github.com/sboudrias/mem-fs.git)
 
